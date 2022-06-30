@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [CalculateGuru](https://github.com/datalytika/calculateguru)
 
-- 👨‍💻 All of my projects are available at [lweyajoe.github.io](lweyajoe.github.io)
+- 👨‍💻 All of my projects will soon be available at [lweyajoe.github.io](lweyajoe.github.io)
 
 - 📝 I regularly write articles on [lweyajoe.github.io/blog](lweyajoe.github.io/blog)
 
