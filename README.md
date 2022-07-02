@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lweya Joe</h1>
-<h3 align="center">A passionate frontend developer and pythonista in UAE</h3>
+<h3 align="center">A passionate dev., data scientist and pythonista in Nairobi... and UAE sometimes.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lweyajoe&label=Profile%20views&color=0e75b6&style=flat" alt="lweyajoe" /> </p>
 
@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/lweyajoe" target="blank"><img src="https://img.shields.io/twitter/follow/lweyajoe?logo=twitter&style=for-the-badge" alt="lweyajoe" /></a> </p>
 
-- 🔭 I’m currently working on [datalytika's PortiPy project](https://github.com/datalytika/PortiPy)
+- 🔭 I’m currently doing @alx_africa and working on [Datalytika's PortiPy project](https://github.com/datalytika/PortiPy)
 
 - 🌱 I’m currently always learning **C and Python**
 
 - 👯 I’m looking to collaborate on [CalculateGuru](https://github.com/datalytika/calculateguru)
 
-- 👨‍💻 All of my projects will soon be available at [lweyajoe.github.io](lweyajoe.github.io)
+- 👨‍💻 All of my projects will soon be available at [lweyajoe.github.io](https://lweyajoe.github.io)
 
-- 📝 I regularly write articles on [lweyajoe.github.io/blog](lweyajoe.github.io/blog)
+- 📝 I regularly write articles on [lweyajoe.github.io/blog](https://lweyajoe.github.io/blog)
 
 - 💬 Ask me about **HTML, CSS and Javascript; and Python (libraries for Data Science)**
 
