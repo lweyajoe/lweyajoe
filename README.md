@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/lweyajoe" target="blank"><img src="https://img.shields.io/twitter/follow/lweyajoe?logo=twitter&style=for-the-badge" alt="lweyajoe" /></a> </p>
 
-- 🔭 I’m currently doing @alx_africa and working on [Datalytika's PortiPy project](https://github.com/datalytika/PortiPy)
+- 🔭 I’m currently doing assignments at @alx_africa ;) and working on [Datalytika's PortiPy project](https://github.com/datalytika/PortiPy)
 
-- 🌱 I’m currently always learning **C and Python**
+- 🌱 I’m currently learning **C and Python**
 
 - 👯 I’m looking to collaborate on [CalculateGuru](https://github.com/datalytika/calculateguru)
 
