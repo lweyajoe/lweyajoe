@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects will soon be available at [lweyajoe.github.io](https://lweyajoe.github.io)
 
-- 📝 I regularly write articles on [lweyajoe.github.io/blog](https://lweyajoe.github.io/blog)
+- 📝 I regularly write articles on [Datalytika's Blog](https://datalytika.org/blog.html) and talk about money, finance and investment on [PesaFul](https://lweyajoe.github.io/pesaful)
 
 - 💬 Ask me about **HTML, CSS and Javascript; and Python (libraries for Data Science)**
 
