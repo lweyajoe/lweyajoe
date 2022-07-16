@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **C and Python**
 
-- 👯 I’m looking to collaborate on [CalculateGuru](https://github.com/datalytika/calculateguru)
+- 👯 I’m looking to collaborate on [CalculateGuru](https://github.com/datalytika/calculateguru), and if you find any issues with [Pandas](https://github.com/pandas-dev/pandas) .. please share with me (I'm really interested and would love to make my contribution there too.
 
 - 👨‍💻 All of my projects will soon be available at [lweyajoe.github.io](https://lweyajoe.github.io)
 
