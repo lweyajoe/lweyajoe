@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lweya Joe</h1>
-<h3 align="center">An analyst most times - [and by training](https://lweyajoe.github.io/pesaful) ;), but also a passionate budding dev.: interests in data science and analytics, though I've been building websites for quick bucks. Based in Nairobi most times... and UAE sometimes.</h3>
+<h3 align="center">A financial analyst turning into a passionate budding dev.: interests in data science and analytics, though I've been building websites for quick bucks. Based in Nairobi most times... and UAE sometimes.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lweyajoe&label=Profile%20views&color=0e75b6&style=flat" alt="lweyajoe" /> </p>
 
@@ -9,17 +9,17 @@
 
 - 🔭 I’m currently doing simple assignments at @Holberton ;) and working on [Datalytika's PortiPy project](https://github.com/datalytika/PortiPy) which is a robo-advisor that reacts to market news to advise on stocks and crypto trades.
 
-- 🌱 I’m currently learning **C and Python** mentored by ALU.
+- 🌱 I’m currently learning **C and Python** mentored by **ALU**.
 
 - 👯 I’m looking to collaborate on [CalculateGuru](https://github.com/datalytika/calculateguru), and if you find any issues with [Pandas](https://github.com/pandas-dev/pandas) .. please share with me (I'm really interested and would love to make my contribution there too).
 
-- 👨‍💻 All of my projects will soon be available at [lweyajoe.github.io](https://lweyajoe.github.io)
+- 👨‍💻 All of my projects will soon be available at [lweyajoe.github.io](https://lweyajoe.github.io), there's nothing there right now, just demos.
 
-- 📝 I regularly write articles on data (analytics and modeling) and web apps (tech and stuff) in [Datalytika's Blog](https://datalytika.org/blog.html) and talk about money, finance and investment on [PesaFul](https://lweyajoe.github.io/pesaful)
+- 📝 I regularly write articles on data (analytics and modelling) and web apps and solutions (tech and stuff) in [Datalytika's Blog](https://datalytika.org/blog.html) and talk about money, finance and investment when I'm broke on [PesaFul](https://lweyajoe.github.io/pesaful)
 
-- 💬 Ask me about **HTML, CSS and Javascript; and Python (libraries for Data Science)**
+- 💬 Ask me about **HTML, CSS and Javascript; and Python (libraries for Data Science)** I'll boast about **PHP** when the time comes but I tried something simple [here by the way](https://easymacbook.com). 
 
-- 📫 How to reach me **joseph.lweya@gmail.com**
+- 📫 Yes, I need that job. How to reach me **joseph.lweya@gmail.com** or **[whatsapp](https://wa.me/+254717158091)**
 
 - ⚡ Fun fact **I'm not funny ;)**
 
