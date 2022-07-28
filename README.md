@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lweya Joe</h1>
-<h3 align="center">An analyst most times ;), but also a passionate model's dev., data scientist and pythonista in Nairobi... and UAE sometimes.</h3>
+<h3 align="center">An analyst most times - [and by training](https://lweyajoe.github.io/pesaful) ;), but also a passionate budding dev.: interests in data science and analytics, though I've been building websites for quick bucks. Based in Nairobi most times... and UAE sometimes.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lweyajoe&label=Profile%20views&color=0e75b6&style=flat" alt="lweyajoe" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/lweyajoe" target="blank"><img src="https://img.shields.io/twitter/follow/lweyajoe?logo=twitter&style=for-the-badge" alt="lweyajoe" /></a> </p>
 
-- 🔭 I’m currently doing simple assignments at @Holberton ;) and working on [Datalytika's PortiPy project](https://github.com/datalytika/PortiPy)
+- 🔭 I’m currently doing simple assignments at @Holberton ;) and working on [Datalytika's PortiPy project](https://github.com/datalytika/PortiPy) which is a robo-advisor that reacts to market news to advise on stocks and crypto trades.
 
 - 🌱 I’m currently learning **C and Python** mentored by ALU.
 
-- 👯 I’m looking to collaborate on [CalculateGuru](https://github.com/datalytika/calculateguru), and if you find any issues with [Pandas](https://github.com/pandas-dev/pandas) .. please share with me (I'm really interested and would love to make my contribution there too.
+- 👯 I’m looking to collaborate on [CalculateGuru](https://github.com/datalytika/calculateguru), and if you find any issues with [Pandas](https://github.com/pandas-dev/pandas) .. please share with me (I'm really interested and would love to make my contribution there too).
 
 - 👨‍💻 All of my projects will soon be available at [lweyajoe.github.io](https://lweyajoe.github.io)
 
