@@ -23,6 +23,22 @@
 
 - ⚡ Fun fact **I'm not funny ;)**
 
+<h3 align="left">Freebies: Cheat Sheets for ALX Newbies:</h3>
+
+- 👨‍💻 [Git Cheat Sheet](https://opensource.com/sites/default/files/2022-04/OSDC_cheatsheet-git-2022.4.7.pdf)
+- 👨‍💻 [C Programming Cheat Sheet](https://opensource.com/sites/default/files/gated-content/cheat_sheet_c.pdf)
+- 👨‍💻 [JupyterLab Cheat Sheet](https://opensource.com/sites/default/files/gated-content/osdc_cheatsheet-jupyterlab_1.pdf)
+- 👨‍💻 [SQLite Cheat Sheet](https://opensource.com/sites/default/files/gated-content/cheat_sheet_sqlite_0.pdf)
+- 👨‍💻 [MariaDB and MySQL Cheat Sheet](https://opensource.com/sites/default/files/gated-content/osdc_cheatsheet-mariadb.pdf)
+- 👨‍💻 [Javascript Cheat Sheet](https://opensource.com/sites/default/files/gated-content/cheat_sheet_javascript-2021.7.19.pdf)
+- 👨‍💻 [Linux Common Commands Cheat Sheet](https://opensource.com/sites/default/files/gated-content/cheat_sheet_linux_common_commands.pdf)
+- 👨‍💻 [pip Cheat Sheet](https://opensource.com/sites/default/files/gated-content/cheat_sheet_pip.pdf)
+- 👨‍💻 [GNU Emacs Cheat Sheet](https://opensource.com/sites/default/files/gated-content/cheat_sheet_emacs.pdf)
+- 👨‍💻 [Linux Permissions Cheat Sheet](https://opensource.com/sites/default/files/gated-content/cheat_sheet_linux_permissions_0.pdf)
+- 👨‍💻 [MarkDown Cheat Sheet](https://opensource.com/sites/default/files/gated-content/markdown_cheat_sheet_opensource.com_.pdf)
+- 👨‍💻 [Python 3.7 Beginner's Cheat Sheet](https://opensource.com/sites/default/files/gated-content/markdown_cheat_sheet_opensource.com_.pdf)
+- 👨‍💻 [VIM Cheat Sheet](https://opensource.com/sites/default/files/gated-content/cheat_sheet_vim_final_v2_0.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lweyajoe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lweyajoe" height="30" width="40" /></a>
