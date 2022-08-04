@@ -19,9 +19,11 @@
 
 - 💬 Ask me about **HTML, CSS and Javascript; and Python (libraries for Data Science)** I'll boast about **PHP** when the time comes but I tried something simple [here by the way](https://easymacbook.com). 
 
-- 📫 Yes, I need that job. How to reach me **joseph.lweya@gmail.com** or **[whatsapp](https://wa.me/+254717158091)**
+- 📫 Yes, I want to talk. How to reach me **joseph.lweya@gmail.com** or **[whatsapp](https://wa.me/+254717158091)**
 
 - ⚡ Fun fact **I'm not funny ;)**
+
+- Also wondering how **Booking.com** interacts with the databases of the hotels in their app? Me too. [Start here](https://stackshare.io/booking-com/booking-com).
 
 <h3 align="left">Freebies: Cheat Sheets for ALX Newbies:</h3>
 
