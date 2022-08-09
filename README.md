@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently doing simple assignments at @Holberton ;) and working on [Datalytika's PortiPy project](https://github.com/datalytika/PortiPy) which is a robo-advisor that reacts to market news to advise on stocks and crypto trades.
 
-- 🌱 I’m currently learning **C and Python** mentored by **ALU**.
+- 🌱 I’m currently learning **C and Python** mentored by **ALx**.
 
 - 👯 I’m looking to collaborate on [CalculateGuru](https://github.com/datalytika/calculateguru), and if you find any issues with [Pandas](https://github.com/pandas-dev/pandas) .. please share with me (I'm really interested and would love to make my contribution there too).
 
@@ -17,11 +17,11 @@
 
 - 📝 I regularly write articles on data (analytics and modelling) and web apps and solutions (tech and stuff) in [Datalytika's Blog](https://datalytika.org/blog.html) and talk about money, finance and investment when I'm broke on [PesaFul](https://lweyajoe.github.io/pesaful)
 
-- 💬 Ask me about **HTML, CSS and Javascript; and Python (libraries for Data Science)** I'll boast about **PHP** when the time comes but I tried something simple [here by the way](https://easymacbook.com). 
+- 💬 Ask me about **HTML, CSS and Javascript; and Python (libraries for Data Science)** I'll boast about **PHP** when the time comes but I tried something simple [on Laravel here by the way](https://easymacbook.com) and playing around with [some NextJS marketplace app here](https://nyumba.vercel.app). 
 
-- 📫 Yes, I want to talk. How to reach me **joseph.lweya@gmail.com** or **[whatsapp](https://wa.me/+254717158091)**
+- 📫 Yes, I want to talk. How to reach me **joseph.lweya@gmail.com** or **[whatsapp](https://wa.me/+254717158091)** ... Especially if you spot a theme you want to transform into a web app on [Datalytika](https://datalytika.netlify.app).
 
-- ⚡ Fun fact **I'm not funny ;)**
+- ⚡ Fun fact -> **I'm not funny ;)**
 
 - Also wondering how **Booking.com** interacts with the databases of the hotels in their app? Me too. [Start here](https://stackshare.io/booking-com/booking-com).
 
