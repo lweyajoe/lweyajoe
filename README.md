@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lweya Joe</h1>
-<h3 align="center">A financial analyst turning into a passionate budding dev.: interests in data science and analytics, though I've been building websites for quick bucks. Based in Nairobi most times... and UAE sometimes.</h3>
+<h3 align="center">A financial analyst budding into a passionate dev.: with interests in data science and analytics, but have found myself building web apps. Based in Nairobi most times... and UAE sometimes.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lweyajoe&label=Profile%20views&color=0e75b6&style=flat" alt="lweyajoe" /> </p>
 
