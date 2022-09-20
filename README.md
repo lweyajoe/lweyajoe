@@ -27,6 +27,9 @@
 
 - ⚡ Fun fact -> **I'm not funny ;)**
 
+- Just created a new blog using @hashnode. It's fast ⚡️, free 🎉, and highly customisable ⚙️. Get yours here: https://hashnode.com 
+🌎: https://lweyajoe.hashnode.dev 
+
 - Also wondering how **Booking.com** interacts with the databases of the hotels in their app? Me too. [Start here](https://stackshare.io/booking-com/booking-com).
 
 *****************************************************************************************************************************************************************************
