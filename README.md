@@ -55,7 +55,7 @@
 - 👨‍💻 [GNU Emacs Cheat Sheet](https://opensource.com/sites/default/files/gated-content/cheat_sheet_emacs.pdf)
 - 👨‍💻 [Linux Permissions Cheat Sheet](https://opensource.com/sites/default/files/gated-content/cheat_sheet_linux_permissions_0.pdf)
 - 👨‍💻 [MarkDown Cheat Sheet](https://opensource.com/sites/default/files/gated-content/markdown_cheat_sheet_opensource.com_.pdf)
-- 👨‍💻 [Python 3.7 Beginner's Cheat Sheet](https://opensource.com/sites/default/files/gated-content/markdown_cheat_sheet_opensource.com_.pdf)
+- 👨‍💻 [Python 3.7 Beginner's Cheat Sheet](https://opensource.com/sites/default/files/gated-content/cheat_sheet_python37_v2.pdf)
 - 👨‍💻 [VIM Cheat Sheet](https://opensource.com/sites/default/files/gated-content/cheat_sheet_vim_final_v2_0.pdf)
 
 *****************************************************************************************************************************************************************************
