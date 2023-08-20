@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects will soon be available at [lweyajoe.github.io](https://lweyajoe.github.io), there's nothing there right now, just demos.
 
-- 📝 I regularly write articles on data (analytics and modelling) and web apps and solutions (tech and stuff) in [Datalytika's Blog](https://datalytika.net/blog.html) and talk about money, finance and investment yet I'm broke ;) on [PesaFul](https://lweyajoe.com)
+- 📝 I regularly write articles on data (analytics and modelling) and web apps and solutions (tech and stuff) in [Datalytika's Blog](https://datalytika.net/blog.html) and talk about money, finance and investment yet I'm broke ;) on [PesaFul](https://lweya.com)
 
 - 💬 Ask me about **HTML, CSS and Javascript; and Python (libraries for Data Science)** I'll boast about **PHP** when the time comes but I tried something simple [on Laravel here by the way](https://easymacbook.com) and playing around with [some NextJS marketplace app here](https://nyumba.vercel.app). 
 
