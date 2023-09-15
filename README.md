@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on [CalculateGuru](https://github.com/datalytika/calculateguru), and if you find any issues with [Pandas](https://github.com/pandas-dev/pandas) .. please share with me (I'm really interested and would love to make my contribution there too).
 
-- 👨‍💻 All of my projects will soon be available at [lweyajoe.github.io](https://lweyajoe.github.io), there's nothing there right now, just demos.
+- 👨‍💻 All of my projects will soon be available at [Datalytika Demos](https://datalytika.netlify.app), there's nothing there right now, just demos.
 
 - 📝 I regularly write articles on data (analytics and modelling) and web apps and solutions (tech and stuff) in [Datalytika's Blog](https://datalytika.net/blog.html) and talk about money, finance and investment yet I'm broke ;) on [PesaFul](https://lweya.com)
 
