@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lweya Joe</h1>
-<h3 align="center">A business analyst budding into a passionate dev.: with interests in data science and analytics, but have found myself building web apps. Based in Nairobi most times... and a nomad sometimes.</h3>
+<h3 align="center">A business analyst budding into a passionate dev.: with interests in data science and analytics, but have found myself building web apps. Based in Nairobi at times... but a nomad most times.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lweyajoe&label=Profile%20views&color=0e75b6&style=flat" alt="lweyajoe" /> </p>
 
@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects will soon be available at [Datalytika Demos](https://datalytika.netlify.app), there's nothing there right now, just demos.
 
-- 📝 I regularly write articles on data (analytics and modelling) and web apps and solutions (tech and stuff) in [Datalytika's Blog](https://datalytika.net/blog.html) and talk about money, finance and investment yet I'm broke ;) on [PesaFul](https://lweya.com)
+- 📝 I regularly write articles on data (analytics and modelling) and web apps and solutions (tech and stuff) in [Datalytika's Blog](https://datalytika.net/blog.html) and talk about money, finance and investment ;) on [PesaFul](https://lweya.com)
 
 - 💬 Ask me about **HTML, CSS and Javascript; and Python (libraries for Data Science)** I'll boast about **PHP** when the time comes but I tried something simple [on Laravel here by the way](https://easymacbook.com) and playing around with [some NextJS marketplace app here](https://nyumba.vercel.app). 
 
