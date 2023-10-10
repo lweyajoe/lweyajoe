@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lweya Joe</h1>
+<h1 align="center">Hi 👋, I'm Lweya Joe - And this is my tech profile</h1>
 <h3 align="center">A business analyst budding into a passionate dev.: with interests in data science and analytics, but have found myself building web apps. Based in Nairobi at times... but a nomad most times.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lweyajoe&label=Profile%20views&color=0e75b6&style=flat" alt="lweyajoe" /> </p>
