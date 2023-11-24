@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joe Lweya</h1>
 <h1 align="center">NB: If you're from LinkedIn, please note that this is my **tech profile**</h1>
-<h3 align="center">Analyst, budding into passionate dev.: with interests in data science and analytics; indilged in building software and apps too. Based in Nairobi... but a nomad most times.</h3>
+<h3 align="center">Analyst, budding into passionate dev.: with interests in data science and analytics; indulged in building software and apps too. Based in Nairobi... but a nomad most times.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lweyajoe&label=Profile%20views&color=0e75b6&style=flat" alt="lweyajoe" /> </p>
 
