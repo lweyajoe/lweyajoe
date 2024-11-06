@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joe Lweya</h1>
-<h1 align="center">NB: If you're from LinkedIn, please note that this is my **tech profile**</h1>
+<h1 align="center">NB: **tech profile**</h1>
 <h3 align="center">Analyst, budding into passionate dev.: with interests in data science and analytics; indulged in building software and apps too. Based in Nairobi... but a nomad most times.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lweyajoe&label=Profile%20views&color=0e75b6&style=flat" alt="lweyajoe" /> </p>
@@ -14,17 +14,17 @@
 
 - 🔭 I’m currently doing simple assignments at @Holberton ;) and working on [Datalytika's PortiPy project](https://github.com/datalytika/PortiPy) which is a robo-advisor that reacts to market news to advise on stocks and crypto trades.
 
-- 🌱 I’m currently learning **C and Python** mentored by **ALx**.
+- 🌱 Trained at **C and Python** mentored by **ALx**.
 
 - 👯 I’m looking to collaborate on [CalculateGuru](https://github.com/datalytika/calculateguru), and if you find any issues with [Pandas](https://github.com/pandas-dev/pandas) .. please share with me (I'm really interested and would love to make my contribution there too).
 
-- 👨‍💻 All of my projects will soon be available at [Datalytika Demos](https://datalytika.netlify.app), there's nothing there right now, just demos.
+- 👨‍💻 All of my commercial projects are available at [Squarehaul Demos](https://squarehaul.netlify.app), there's nothing there right now, just demos.
 
-- 📝 I regularly write articles on data (analytics and modelling) and web apps and solutions (tech and stuff) in [Datalytika's Blog](https://datalytika.net/blog.html)
+- 📝 I regularly write articles on data (analytics and modelling) and web apps and solutions (tech and stuff) in [Squarehaul's Blog](https://squarehaul.online/blog.html)
 
-- 💬 Ask me about **HTML, CSS and Javascript; and Python (libraries for Data Science)** I'll boast about **PHP** when the time comes but I tried something simple [on Laravel here by the way](https://easymacbook.com) and playing around with [some NextJS marketplace app here](https://nyumba.vercel.app). 
+- 💬 Ask me about **HTML, CSS and Javascript; and Python (libraries for Data Science)** I'll boast about **PHP** when the time comes but I tried something simple [on Laravel here by the way](https://squarehaul.gitbook.io/squarehaul-lms) and playing around with [some NextJS marketplace app here](https://nyumba.vercel.app). 
 
-- 📫 Yes, I want to talk. How to reach me **joseph.lweya@gmail.com** or **[whatsapp](https://wa.me/+254717158091)** ... Especially if you spot a theme you want to transform into a web app on [Datalytika](https://datalytika.netlify.app).
+- 📫 Yes, I want to talk. How to reach me **joseph.lweya@gmail.com** or **[whatsapp](https://wa.me/+254717158091)** ... Especially if you spot a theme you want to transform into a web app on [Datalytika](https://squarehaul.netlify.app).
 
 - ⚡ Fun fact -> **I'm not funny ;)**
 
